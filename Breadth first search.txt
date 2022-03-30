@@ -1,6 +1,6 @@
 //Breadth first search
 #include<stdio.h>
-int graph[10][10], visited[10]={0}, total;
+int graph[10][10], visited[10]={0}, total;VBJHVJH
 void BFS(int start)
 {
     int i;
